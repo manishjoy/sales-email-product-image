@@ -1,0 +1,27 @@
+{
+    "name": "manishjoy/module-productimagesalesemail",
+    "description": "",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Manish Joy",
+            "email": "manishjoy1993@hotmail.com",
+            "homepage": "https://in.linkedin.com/in/manishjoy",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "~7.0.13|~7.1.0",
+        "magento/module-sales": "100.2.*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "ManishJoy\\ProductImageSalesEmail\\": ""
+        }
+    }
+}
