@@ -3,7 +3,7 @@
 
 ### Free magento 2 extension to show product image in sales email (Order Confirmation, Shipment, Credit Memo etc.)
 
-### Magento doesn't show product image out of the box, this extension enables this feature
+### Magento doesn't show product image in emails out of the box, this extension enables this feature
 
 ## Features:
 1. Easy to use
