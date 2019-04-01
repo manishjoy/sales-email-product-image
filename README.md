@@ -1,6 +1,10 @@
 # ManishJoy_ProductImageSalesEmail v1.0.0
 ## Magento 2 Extension
 
+### Free magento 2 extension to show product image in sales email (Order Confirmation, Shipment, Credit Memo etc.)
+
+### Magento doesn't show product image out of the box, this extension enables this feature
+
 ## Features:
 1. Easy to use
 2. Looks like core functionality of Magento (at backend as well as frontend)
